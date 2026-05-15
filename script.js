@@ -9,7 +9,7 @@ const branches = [
       "🎯 IQ PLUS สาขามงฟอร์ตมัธยม ซอย 10 (ตรงข้ามประตู 1)",
       "🎯 IQ PLUS สาขามงฟอร์ตมัธยม ซอย 12",
     ],
-    googleMapsUrl: "https://maps.app.goo.gl/JTo6oqWoStB3tSzB",
+    googleMapsUrl: "https://maps.app.goo.gl/joFFa73CPG85npLbA",
   },
 ];
 
